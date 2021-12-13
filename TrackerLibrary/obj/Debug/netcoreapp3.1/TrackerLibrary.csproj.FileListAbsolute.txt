@@ -1,0 +1,10 @@
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.deps.json
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.dll
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\bin\Debug\netcoreapp3.1\TrackerLibrary.pdb
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.AssemblyInfo.cs
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.dll
+C:\Users\charl\source\repos\charleskkaui\COMPE361\TrackerLibrary\obj\Debug\netcoreapp3.1\TrackerLibrary.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackerLibrary", "TrackerLibrary.csproj", "{BA5C827B-D054-4652-BA8A-D26AD0C23505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryUI", "..\InventoryUI\InventoryUI.csproj", "{E432698B-064D-4FB8-AE56-2B3E0C7BACC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA5C827B-D054-4652-BA8A-D26AD0C23505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5C827B-D054-4652-BA8A-D26AD0C23505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5C827B-D054-4652-BA8A-D26AD0C23505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5C827B-D054-4652-BA8A-D26AD0C23505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E432698B-064D-4FB8-AE56-2B3E0C7BACC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E432698B-064D-4FB8-AE56-2B3E0C7BACC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E432698B-064D-4FB8-AE56-2B3E0C7BACC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E432698B-064D-4FB8-AE56-2B3E0C7BACC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6121857C-247A-4B12-8E63-A03A4E29FFF5}
+	EndGlobalSection
+EndGlobal
