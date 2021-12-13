@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\source\\repos\\charleskkaui\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj": {}
+    "C:\\Users\\charl\\OneDrive\\Documents\\GitHub\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\source\\repos\\charleskkaui\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj": {
+    "C:\\Users\\charl\\OneDrive\\Documents\\GitHub\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\source\\repos\\charleskkaui\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\OneDrive\\Documents\\GitHub\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj",
         "projectName": "TrackerLibrary",
-        "projectPath": "C:\\Users\\charl\\source\\repos\\charleskkaui\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj",
+        "projectPath": "C:\\Users\\charl\\OneDrive\\Documents\\GitHub\\COMPE361\\TrackerLibrary\\TrackerLibrary.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\source\\repos\\charleskkaui\\COMPE361\\TrackerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\charl\\OneDrive\\Documents\\GitHub\\COMPE361\\TrackerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
