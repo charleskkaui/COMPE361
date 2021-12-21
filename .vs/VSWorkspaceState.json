@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TrackerLibrary",
+    "\\TrackerLibrary\\bin",
+    "\\TrackerLibrary\\bin\\Release",
+    "\\TrackerLibrary\\bin\\Release\\netcoreapp3.1"
   ],
   "PreviewInSolutionExplorer": false
 }
